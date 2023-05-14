@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Bebas+Neue&family=Modak&family=Pacifico&family=Permanent+Marker&display=swap');
+
+.font-magic {
+  color: rgb(133, 228, 161) !important;
+  font-family: 'Permanent Marker', cursive;
+  text-shadow: 5px 10px 5px rgb(20, 20, 20);
+}
+
+.about-me {
+  background-color: rgb(20, 20, 20);
+  font-family: 'Modak', cursive;
+  color: #ececec;
+  margin-bottom: 5px;
+  align-items: center;
+  font-size: 50px;
+  text-shadow: 10px 5px 10px rgb(20, 20, 20);
+}
+
+.inicio .img-profile {
+  border: 7px solid #ececec;
+}
+
+.inicio .about-me {
+  background-color: rgb(20, 20, 20);
+  font-family: 'Modak', cursive;
+  color: #ececec;
+  margin-top: 40px;
+  align-items: center;
+  font-size: 50px;
+  text-shadow: 10px 5px 10px rgb(20, 20, 20);
+  ;
+}
+
+.inicio .about-me .rows {
+  background-color: rgb(20, 20, 20);
+  font-family: 'Modak', cursive;
+  color: #ececec;
+  margin-top: 10px;
+  font-size: 15px;
+
+}
+
+.section {
+  background-color: rgb(20, 20, 20);
+}
+
+.card-local {
+  border-radius: 5%;
+  background-color: #0F2027;
+
+}
+
+.description {
+  font-family: 'Bakbak One', cursiv;
+  font-size: 20px;
+  color: #ececec;
+}
+
+.description .h1 {
+  font-family: 'Bakbak One', cursiv;
+  font-size: 50px;
+  color: #ececec;
+}
+
+.description .p {
+  font-family: 'Bakbak One', cursiv;
+  font-size: 20px;
+  color: #ececec;
+}
+
+.color-second-primary {
+  background-color: rgb(133, 228, 161);
+  color: rgb(0, 0, 0);
+}
+
+.body-graph {
+  align-items: center;
+  gap: 30px;
+  margin: 30px;
+}
