@@ -30,7 +30,7 @@ Esta seccion es dinamica se pueden cargar los softSkills desde la api, o desde e
 Contacto:
 Esta sección permite a los usuarios ponerse en contacto con el creador de la aplicación, a través de un formulario de contacto que incluye campos como nombre, correo electrónico y mensaje.
 
-           -----------------------------------------------------------------------------------------------------------
+         
            
 En el home se encuentra el boton de registrarse y de el de login los cuales rutean a su respectivos componentes. 
 
